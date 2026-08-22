@@ -14,3 +14,5 @@ Fifth example scenario
 Adjustment to the fifth example scenario
 
 Sixth example scenario
+
+Seventh example scenario
