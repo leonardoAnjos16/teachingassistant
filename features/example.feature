@@ -9,3 +9,5 @@ Third example scenario (this one is a fail scenario)
 Fourth example scenario (this one is another fail scenario)
 
 Fifth example scenario
+
+Sixth example scenario
