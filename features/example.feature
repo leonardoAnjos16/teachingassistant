@@ -1,6 +1,6 @@
 An example feature
 
-First example scenarioo
+First example scenario
 
 Second example scenario
 
