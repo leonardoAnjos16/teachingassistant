@@ -1,4 +1,5 @@
 An example feature
+Adjustment to the feature description
 
 First example scenario
 
